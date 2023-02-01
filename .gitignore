@@ -10,6 +10,7 @@ env*
 dist/
 build/
 *.egg
+*.db
 *.egg-info/
 .tox/
 .cache/
